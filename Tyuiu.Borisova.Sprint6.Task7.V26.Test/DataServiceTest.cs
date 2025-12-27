@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.IO;
-using Tyuiu.Borisova.Sprint6.Task7.V26.Lib;
+using Tyuiu.Borisova.Sprint6.Task7.V26;
 
 namespace Tyuiu.Borisova.Sprint6.Task7.V26.Test
 {
