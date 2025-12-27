@@ -14,7 +14,7 @@ namespace Tyuiu.Borisova.Sprint6.Task6.V19.Test
         public void ValidCollectTextFromFile()
         {
             DataService ds = new DataService();
-            string path = @"C:\Users\user\source\repos\Tyuiu.ChepurnykhSR.Sprint6\InPutFileTask6V19.txt";
+            string path = @"C:\Users\user\source\repos\Tyuiu.Borisova.Sprint6\InPutFileTask6V19.txt";
             string res = ds.CollectTextFromFile(path);
             string wait = "HqrXl PAlR TwlB AWkgYPxilmC ";
             Assert.AreEqual(wait, res);
