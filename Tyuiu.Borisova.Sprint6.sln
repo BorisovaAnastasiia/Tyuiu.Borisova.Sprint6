@@ -29,7 +29,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{7AA22187
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.Borisova.Sprint6.Task2.V20.Test", "Tyuiu.Borisova.Sprint6.Task2.V20.Test\Tyuiu.Borisova.Sprint6.Task2.V20.Test.csproj", "{8EF8F207-892A-4D9B-A717-66010FF3D906}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BorisovaAD.Sprint6.Task2.V20", "Tyuiu.BorisovaAD.Sprint6.Task2.V20\Tyuiu.BorisovaAD.Sprint6.Task2.V20.csproj", "{AA332A8E-7512-4982-9D05-BB4003AE1AF8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BorisovaAD.Sprint6.Task2.V20.Lib", "Tyuiu.BorisovaAD.Sprint6.Task2.V20\Tyuiu.BorisovaAD.Sprint6.Task2.V20.Lib.csproj", "{AA332A8E-7512-4982-9D05-BB4003AE1AF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
