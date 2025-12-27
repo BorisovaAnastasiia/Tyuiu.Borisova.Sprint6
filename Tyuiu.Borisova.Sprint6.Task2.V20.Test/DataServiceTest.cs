@@ -2,7 +2,7 @@
 using System;
 
 
-using Tyuiu.BorisovaAD.Sprint6.Task2.V20.Lib;
+using Tyuiu.Borisova.Sprint6.Task2.V20;
 
 namespace Tyuiu.MedvedevKA.Sprint6.Task2.V20.Test
 {
